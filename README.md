@@ -1,2 +1,0 @@
-# thamyzoom.github.io
-Thamysite
