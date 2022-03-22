@@ -1,2 +1,2 @@
-# thamyzoom.github.io
+# thamyzoom
 Thamysite
