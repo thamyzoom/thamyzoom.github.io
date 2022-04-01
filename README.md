@@ -1,11 +1,5 @@
 # "Starnight" One Page Website Template
 
-"Starnight" is a one page website template made by [Peter Finlan](http://peterfinlan.com/).
-
-[Download](https://dribbble.com/shots/1592140-Freebie-Starnight-HTML5-CSS3-Website-Template)
-
-[Demo](https://dribbble.com/shots/1592140-Freebie-Starnight-HTML5-CSS3-Website-Template)
-
 ## License
 
 Use it freely but please do not republish, distribute or sell "as-is".
